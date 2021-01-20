@@ -99,7 +99,7 @@ sections:
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/about-1.jpg
         image_alt: Item 3 icon
         image_position: top
         image_align: left
